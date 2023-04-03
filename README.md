@@ -51,3 +51,7 @@ pip install -r requirements.txt
 
 ![!cnn](https://github.com/gslmota/Learning_transfer_CNN/blob/main/imgs/mimg.png)
 
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
